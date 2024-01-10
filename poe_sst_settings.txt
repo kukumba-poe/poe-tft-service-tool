@@ -1,0 +1,15 @@
+Softcore
+true
+7
+divine
+true
+true
+60
+chaos
+false
+30% Armour qual
+2
+divine
+false
+100
+chaos
