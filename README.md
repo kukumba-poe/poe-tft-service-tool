@@ -10,4 +10,7 @@ The features are very simple and include, checking which services you have; set 
 ![example](ui_example.PNG)
 
 The UI of the tool.
+
+## Using the tool
+To use the tool simply download the poe-service-tool.zip, then extract it and open the executable jar from the folder.
  
