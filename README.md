@@ -8,5 +8,6 @@ The features are very simple and include, checking which services you have; set 
 
 ## UI
 ![example](ui_example.PNG)
+
 The UI of the tool.
  
