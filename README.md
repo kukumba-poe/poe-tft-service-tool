@@ -1,5 +1,5 @@
 # poe-tft-service-tool
-A tool too quickly generate messages to sell Betrayel services on TFT
+A tool too quickly generate messages to sell Betrayal services on TFT
 
 This is a simple tool to copy messages for services into the clipboard. 
 These messages are formated as required and is custom in the \#services-wts-\<current league\> channel on the TFT discord. 
