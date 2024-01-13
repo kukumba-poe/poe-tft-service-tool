@@ -12,6 +12,6 @@ The features are very simple and include, checking which services you have; set 
 The UI of the tool.
 
 ## Using the tool
-To use the tool simply download the [PoE_Service_Tool.zip](https://github.com/kukumba-poe/poe-tft-service-tool/blob/main/PoE_Service_Tool.zip), then extract it and open the executable from the folder.
+To use the tool simply download the [PoE_Service_Tool.zip](https://github.com/kukumba-poe/poe-tft-service-tool/blob/main/PoE_Service_Tool.zip), then extract it and open the executable or the jar file from the folder.
 You can create shortcuts to acces the tool from elsewhere, however the executable itself has to stay in the folder to find the settings file.
  
