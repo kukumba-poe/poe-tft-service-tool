@@ -7,7 +7,7 @@ These messages are formated as required and is custom in the \#services-wts-\<cu
 The features are very simple and include, checking which services you have; set prices for them in your desired currency; select your league (idek if hc uses tft. They all live in the same trade channel) and save a basic version of your settings, such that you don't have to set it up again every time.
 
 ## UI
-![example](ui_example.PNG)
+![example](ui.PNG)
 
 The UI of the tool.
 
